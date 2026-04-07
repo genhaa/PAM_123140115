@@ -166,12 +166,13 @@ implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
 
 ## 📸 Screenshot
 
-| NoteList | NoteDetail | AddNote | | :---: | :---: | :---: | 
+| NoteList | NoteDetail | AddNote |
+| :---: | :---: | :---: |
 | ![NoteList](./screenshot_Video/mynotes.png) | ![NoteDetail](./screenshot_Video/detail.png) | ![AddNote](./screenshot_Video/add.png) |
-| Favorites | EditNote | Profile | | :---: | :---: | :---: |
+
+| Favorites | EditNote | Profile |
+| :---: | :---: | :---: |
 | ![Favorites](./screenshot_Video/fav.png) | ![EditNote](./screenshot_Video/edit.png) | ![Profile](./screenshot_Video/profile.png) |
-
-
 ---
 
 ## 🎬 Demo
