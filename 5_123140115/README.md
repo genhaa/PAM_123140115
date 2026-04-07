@@ -156,18 +156,20 @@ implementation("androidx.navigation:navigation-compose:2.7.7")
 implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
 implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
 ```
+---
+
+## 📚Navigation Diagram Flow
+![Navigation Flow Diagram](./screenshot_Video/navigation_flow_diagram.svg)
+
 
 ---
 
 ## 📸 Screenshot
 
-| NoteList | NoteDetail | AddNote |
-|---|---|---|
-| /screenshot_Video/mynotes | /screenshot_Video/detail | /screenshot_Video/add |
-
-| Favorites | EditNote | Profile |
-|---|---|---|
-| /screenshot_Video/fav | /screenshot_Video/edit | /screenshot_Video/profile |
+| NoteList | NoteDetail | AddNote | | :---: | :---: | :---: | 
+| ![NoteList](./screenshot_Video/mynotes.png) | ![NoteDetail](./screenshot_Video/detail.png) | ![AddNote](./screenshot_Video/add.png) |
+| Favorites | EditNote | Profile | | :---: | :---: | :---: |
+| ![Favorites](./screenshot_Video/fav.png) | ![EditNote](./screenshot_Video/edit.png) | ![Profile](./screenshot_Video/profile.png) |
 
 
 ---
