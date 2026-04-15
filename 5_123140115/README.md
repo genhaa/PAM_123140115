@@ -177,7 +177,7 @@ implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
 
 ## 🎬 Demo
 
-Video demo (30 detik) menunjukkan semua navigation flows tersedia di: /screenshot_Video/vid_demo
+Video demo (30 detik) menunjukkan semua navigation flows tersedia di: https://youtu.be/gddt_eHlOUM?si=js7YuXgdjxtoZwLJ
 
 Flow yang didemonstrasikan:
 1. Bottom nav switching (Notes → Favorites → Profile)
